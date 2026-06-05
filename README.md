@@ -9,9 +9,10 @@ This repository contains exercises and small implementations designed to reinfor
 - Built-in data structures (lists, dictionaries, arrays, tuples, sets)
 - Control flow (if, elif statements, while and for loops)
 - Functions and reusable logic
+- Module imports to organize the code by splitting it into multiple files  
 - Exception handling by using try–except statements
 - Object-Oriented Programming fundamentals (classes, attributes, methods)
 
 ### Learning Outcome
-By completing these exercises I developed a strong understanding of Python syntax, program structure and OOP usage that forms the foundation of data management systems, lightweight web application and games development.
+By completing these exercises I developed a strong understanding of Python syntax, program structure and OOP usage that is the core foundation of data management systems, lightweight web application and interactive games development.
 
