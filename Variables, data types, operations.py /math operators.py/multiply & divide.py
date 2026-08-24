@@ -1,5 +1,5 @@
-# Multiplication
+# Daugyba
 print(11 * 2)  # 22
 
-# Division
+# Dalyba
 print(11 / 2)  # 5.5
